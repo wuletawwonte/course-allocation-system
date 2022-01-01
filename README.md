@@ -1,6 +1,6 @@
 #Automated Laravel Cource Allocation System
 # Contributors
     - Wuletaw Wonte
-    - Chala
-    - Enyew
-    - Bikila
+    - Chala Simon
+    - Eneyew Takele
+    - Bikila Alemu
